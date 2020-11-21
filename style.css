@@ -1,0 +1,124 @@
+
+.section1{
+		height:350px;
+		width:100%;
+		background:url("images.jpg") no-repeat;
+		background-size:cover;
+		position:relative;
+}	
+.div1{
+		position:absolute;
+	    top:20px;
+	    left:400px;
+		
+		color:white;
+}
+.div1 h1{
+	
+	text-align:center;
+}
+.form .input{
+		
+		width:80%;
+		margin-left:auto;
+		margin-right:auto;
+		border-radius:10px;
+		padding:8px;
+		border:none;
+}
+.form{
+	
+	text-align:center;
+}
+.form button{
+	color:white;
+	width:25%;
+	
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	background-color:#4c9c75;
+	padding:8px;
+	border:none;
+	border-radius:5px;
+	margin:5px;
+	
+}
+.div1 span{
+	display:block;
+	margin-left:70px;
+	margin-top:30px;	
+	
+}
+
+.img-responsive{
+	
+	max-width:100%
+}
+
+
+
+.section2{
+	margin-top:30px;
+	width:100%;
+	height:530px;
+	display:block;
+	
+	
+	
+}
+
+.divS{
+	
+	height:530px;
+	
+}
+.food1 img{
+	width:400px;
+	height:300px;
+	
+}
+.food1{
+	width:400px;
+	height:500px;
+	float:left;
+	border:4px groove #941d10;
+	background-color:#bf3424;
+	
+	
+}
+
+
+
+.food2 img{
+	width:400px;
+	height:300px;
+	
+}
+.food2{
+	width:400px;
+	height:500px;
+	float:left;
+	margin-left:55px;
+	border:4px groove #196e4d;
+	background-color:#25b06d;
+	
+}
+
+
+.food3 img{
+	width:400px;
+	height:300px;
+	
+}
+.food3{
+	width:400px;
+	height:500px;
+	float:right;
+	border:4px groove #6e1948;
+	background-color:#b02861;
+	
+	
+}
+
+
